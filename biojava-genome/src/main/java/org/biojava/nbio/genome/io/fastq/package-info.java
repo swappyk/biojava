@@ -45,12 +45,12 @@
  *
  * <p>
  * 
- * <a href="http://dx.doi.org/10.1093/nar/gkp1137">The Sanger FASTQ file format for sequences
+ * <a href="https://doi.org/10.1093/nar/gkp1137">The Sanger FASTQ file format for sequences
  * with quality scores, and the Solexa/Illumina FASTQ variants</a>
  * <p>
  * Peter J. A. Cock (Biopython), Christopher J. Fields (BioPerl), Naohisa Goto (BioRuby),
  * Michael L. Heuer (BioJava) and Peter M. Rice (EMBOSS).<br>
- * Nucleic Acids Research, <a href="http://dx.doi.org/10.1093/nar/gkp1137">doi:10.1093/nar/gkp1137</a>
+ * Nucleic Acids Research, <a href="https://doi.org/10.1093/nar/gkp1137">doi:10.1093/nar/gkp1137</a>
  *
  * <p>
  * Moved from org.biojava.nbio.sequencing (biojava-sequencing module) in 5.0.0
