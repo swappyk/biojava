@@ -77,15 +77,15 @@ import org.slf4j.LoggerFactory;
  * Liu P, Agrafiotis DK, & Theobald DL (2011) Reply to comment on: "Fast
  * determination of the optimal rotation matrix for macromolecular
  * superpositions." Journal of Computational Chemistry 32(1):185-186.
- * [http://dx.doi.org/10.1002/jcc.21606]
+ * [https://doi.org/10.1002/jcc.21606]
  * <p>
  * Liu P, Agrafiotis DK, & Theobald DL (2010) "Fast determination of the optimal
  * rotation matrix for macromolecular superpositions." Journal of Computational
- * Chemistry 31(7):1561-1563. [http://dx.doi.org/10.1002/jcc.21439]
+ * Chemistry 31(7):1561-1563. [https://doi.org/10.1002/jcc.21439]
  * <p>
  * Douglas L Theobald (2005) "Rapid calculation of RMSDs using a
  * quaternion-based characteristic polynomial." Acta Crystallogr A
- * 61(4):478-480. [http://dx.doi.org/10.1107/S0108767305015266 ]
+ * 61(4):478-480. [https://doi.org/10.1107/S0108767305015266 ]
  * <p>
  * This is an adoption of the original C code QCProt 1.4 (2012, October 10) to
  * Java. The original C source code is available from

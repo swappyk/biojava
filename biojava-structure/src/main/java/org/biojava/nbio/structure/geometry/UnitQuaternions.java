@@ -87,7 +87,7 @@ public class UnitQuaternions {
 	 * <p>
 	 * The formula is taken from: Huynh, D. Q. (2009). Metrics for 3D rotations:
 	 * comparison and analysis. Journal of Mathematical Imaging and Vision,
-	 * 35(2), 155–164. http://doi.org/10.1007/s10851-009-0161-2
+	 * 35(2), 155–164. https://doi.org/10.1007/s10851-009-0161-2
 	 * 
 	 * @param q1
 	 *            quaternion as Quat4d object
